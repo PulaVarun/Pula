@@ -1,2 +1,0 @@
-# Pula
-Resume generator 
